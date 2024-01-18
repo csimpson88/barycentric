@@ -223,5 +223,3 @@ double dotProduct( double *v1, double *v2 )
   return (result);
 }
 
-bary.c
-Displaying bary.c.
